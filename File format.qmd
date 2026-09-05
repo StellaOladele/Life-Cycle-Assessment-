@@ -1,0 +1,34 @@
+---
+title: "File format"
+author: Stella 
+format: pdf 
+Date: 09/05/2026
+
+
+## parts of file
+- file format 
+for example in Beauty.jpg. JPg is the extension
+
+
+## file extension 
+images
+-png
+-webp
+-gif
+_
+
+video
+_ MP4
+- webv
+- avi
+- mov
+_ mpg
+
+-Music 
+- MP3
+_ AAC
+- MPEG
+- FLAC
+## DATA
+
+
