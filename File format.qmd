@@ -30,5 +30,8 @@ _ AAC
 - MPEG
 - FLAC
 ## DATA
+_ flat files
+_ spreadsheet 
+in a data base 
 
 
