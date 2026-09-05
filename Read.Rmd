@@ -1,5 +1,17 @@
----
-title: "Read"
-output: html_document
----
+# Life Cycle Assessments
+# In this project I will be tracking the entire life cycle of beef, this will include tracking emmision of the following green house gases
+|Green House gas|| |Chemical Formulae|
+|---------------|  |------------------|
 
+# carbondioxide        CO2
+# Methane              CH4
+# Ozone                O3
+# Nitrious Oxide       N2O
+
+We will be tracking the following stages, 
+Production, 
+transportationand
+waste. 
+
+
+# This is by Stella, Debby and James 
